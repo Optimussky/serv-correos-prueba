@@ -1,0 +1,9 @@
+SuperUsurio para el ejemplo
+
+username = correoAdmin
+password = Prueb4
+
+{
+    "username":"correoAdmin",
+    "password":"Prueb4"
+}
